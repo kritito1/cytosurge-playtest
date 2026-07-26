@@ -2,9 +2,9 @@
 
 Public, no-login Web build of CYTOSURGE v0.9.0 for landscape mobile playtesting.
 
-Current build source: `codex/combat-readability` at `83e36695ae200caeb061e5639498d99b38c3de08`.
+Current build source: `codex/combat-readability` at `8bff2bf0a7a1589e6ebb2bd19b9d4639eaa3c51b`.
 
-This build adds stronger radial knockback and clearer motion trails for the orbit weapon, a 36px visual floor for regular enemies, and combat-layer/effect-priority readability improvements.
+This build adds stronger radial knockback and clearer motion trails for the orbit weapon, a 36px visual floor for regular enemies, combat-layer/effect-priority readability improvements, and iOS Safari playback-session audio support.
 
 - Open the GitHub Pages URL in Safari or Chrome.
 - Rotate the phone to landscape.
